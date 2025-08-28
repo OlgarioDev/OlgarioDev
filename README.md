@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Olgário Marcos da Silva Catanha, tenho 33 anos angolano. Licenciado em Relações Internacionais, porém com o curso técnico em programação. Atualmente, estou cursando Análise e Desenvolvimento de Dados e aprofundar o conhecimento em Bancos de dados. Sou apaixonado por tecnologias e disposto a aprender a cada dia que passa. meu  "[Linkedin](https://www.linkedin.com/in/olg%C3%A1rio-catanha-107566252/)" e "[Portifólio(https://olgariocatanha.netlify.app/)]"
+Me chamo Olgário Marcos da Silva Catanha, tenho 33 anos angolano. Licenciado em Relações Internacionais, porém com o curso técnico em programação. Atualmente, estou cursando Análise e Desenvolvimento de Dados e aprofundar o conhecimento em Bancos de dados. Sou apaixonado por tecnologias e disposto a aprender a cada dia que passa. meu  "[Linkedin](https://www.linkedin.com/in/olg%C3%A1rio-catanha-107566252/)" e "[Portifólio](https://olgariocatanha.netlify.app/)"
 
 
 ---
