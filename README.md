@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Olgário Marcos da Silva Catanha, tenho 34 anos angolano. Licenciado em Relações Internacionais, porém, com o curso técnico em Softwere Developer. Atualmente, trabalho, na empresa Apollotec, em Portugal, onde desempenho a função de Softwere Developer, e continuo a aprofundar os meu conhecimentos com formações contínuas. Sou apaixonado por tecnologias e disposto a aprender a cada dia que passa. meu  "[Linkedin](https://www.linkedin.com/in/olg%C3%A1rio-catanha-107566252/)" e "[Portifólio](https://olgariocatanha.netlify.app/)".
+Me chamo Olgário Marcos da Silva Catanha, tenho 34 anos angolano. Licenciado em Relações Internacionais, porém, com o curso técnico em Softwere Developer. Atualmente, trabalho, na empresa Apollotec, em Portugal, onde desempenho a função de Software Developer, e continuo a aprofundar os meu conhecimentos com formações contínuas. Sou apaixonado por tecnologias e disposto a aprender a cada dia que passa. meu  "[Linkedin](https://www.linkedin.com/in/olg%C3%A1rio-catanha-107566252/)" e "[Portifólio](https://olgariocatanha.netlify.app/)".
 
 
 ---
