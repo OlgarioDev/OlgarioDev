@@ -30,11 +30,11 @@ Me chamo Olgário Marcos da Silva Catanha, tenho 34 anos, angolano. Licenciado e
 
 <p align="left">
   <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=OlgarioDev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&locale=pt-br&cache_seconds=1800" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=OlgarioDev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&locale=pt-br" 
   />
   <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlgarioDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlgarioDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
