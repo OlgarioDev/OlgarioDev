@@ -26,7 +26,7 @@ Me chamo Olgário Marcos da Silva Catanha, tenho 34 anos, angolano. Licenciado e
 
 <br/>
 
-### 📊 Estatísticas
+
 
 ### 📊 Estatísticas
 
